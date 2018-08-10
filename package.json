@@ -23,7 +23,6 @@
     "startDocs": "gitdocs serve",
     "buildDocs": "gitdocs build",
     "serveDocs": "serve docs-dist -p 3000",
-    "prepare": "yarn build"
   },
   "authors": [
     {
